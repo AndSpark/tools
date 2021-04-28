@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "purge": "^1.0.0",
+    "purgecss": "^4.0.3"
+  }
+}
